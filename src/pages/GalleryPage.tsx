@@ -42,7 +42,7 @@ const GalleryPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-5xl font-serif mb-4">Gallery</h1>
           <p className="text-xl">
-            Visual stories from the heart of Haryana
+            Visual stories from Incredible India
           </p>
         </div>
       </section>
@@ -52,7 +52,7 @@ const GalleryPage = () => {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-serif text-[#333333] mb-6 text-center">
-            More from Haryana
+            More from India
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -79,10 +79,10 @@ const GalleryPage = () => {
 
       <section className="py-24 bg-[#F7F3E9]">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-4xl font-serif text-[#333333] mb-6">Share Your Haryana Moments</h2>
+          <h2 className="text-4xl font-serif text-[#333333] mb-6">Share Your India Moments</h2>
           <p className="text-lg text-[#666666] mb-8">
-            Have you captured amazing moments in Haryana? Share your photos with us on social
-            media using #HaryanaMemories
+            Have you captured amazing moments in India? Share your photos with us on social
+            media using #IncredibleIndiaMemories
           </p>
           <div className="flex justify-center gap-4 flex-wrap">
             <button className="bg-[#D4A017] hover:bg-[#C49316] text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 transform hover:scale-105">

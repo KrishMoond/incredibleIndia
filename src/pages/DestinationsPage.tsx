@@ -118,7 +118,7 @@ const DestinationsPage = () => {
         description="Explore top tourist destinations in India including Taj Mahal, Kerala Backwaters, Rajasthan Palaces, Goa Beaches, and more incredible places."
         keywords="India destinations, places to visit India, Taj Mahal, Kerala backwaters, Rajasthan palaces, Goa beaches, India attractions"
         image="https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=2070"
-        url="https://incredibleindia.com/destinations"
+        url="https://incredibleindia.org/destinations"
       />
       
       <Breadcrumb items={[{ label: 'Destinations' }]} />

@@ -25,7 +25,7 @@ const Footer = () => {
         <div className="container-padding">
           <div className="max-w-4xl mx-auto text-center space-y-6">
             <h3 className="text-2xl md:text-3xl font-serif text-primary-foreground">
-              Stay Updated with Haryana Tourism
+              Stay Updated with Incredible India
             </h3>
             <p className="text-primary-foreground/80 max-w-2xl mx-auto">
               Get the latest updates on new destinations, cultural events, and travel tips delivered to your inbox
@@ -55,12 +55,12 @@ const Footer = () => {
                   H
                 </div>
                 <div>
-                  <div className="text-xl font-bold text-white">Haryana Tourism</div>
+                  <div className="text-xl font-bold text-white">Incredible India</div>
                   <div className="text-xs text-white/60">Incredible India</div>
                 </div>
               </div>
               <p className="text-white/70 mb-6 leading-relaxed">
-                Discover the heritage, culture, and natural beauty of Haryana. Experience the land where ancient traditions meet modern aspirations.
+                Discover the heritage, culture, and natural beauty of India. Experience the land where ancient traditions meet modern aspirations.
               </p>
               <div className="flex items-center space-x-4">
                 <div className="flex items-center space-x-2 text-sm text-white/60">
@@ -113,8 +113,8 @@ const Footer = () => {
                 <div className="flex items-start space-x-3">
                   <MapPin size={18} className="text-primary mt-1 flex-shrink-0" />
                   <div className="text-white/70 text-sm">
-                    <div>Haryana Tourism Corporation</div>
-                    <div>Chandigarh, Haryana 160017</div>
+                    <div>Ministry of Tourism, India</div>
+                    <div>New Delhi, India 110001</div>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
@@ -123,11 +123,11 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail size={18} className="text-primary flex-shrink-0" />
-                  <span className="text-white/70 text-sm">info@haryanatourism.gov.in</span>
+                  <span className="text-white/70 text-sm">info@incredibleindia.org</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Globe size={18} className="text-primary flex-shrink-0" />
-                  <span className="text-white/70 text-sm">www.haryanatourism.gov.in</span>
+                  <span className="text-white/70 text-sm">www.incredibleindia.org</span>
                 </div>
               </div>
 
@@ -160,7 +160,7 @@ const Footer = () => {
           <div className="border-t border-white/10 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="flex items-center space-x-6 text-sm text-white/60">
-                <span>© 2025 Haryana Tourism Board. All rights reserved.</span>
+                <span>© 2025 Ministry of Tourism, India. All rights reserved.</span>
                 <div className="hidden md:flex items-center space-x-1">
                   <Shield size={14} />
                   <span>Secure & Trusted</span>

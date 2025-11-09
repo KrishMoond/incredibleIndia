@@ -18,11 +18,11 @@ const HomePage = () => {
         description="Explore India's rich heritage, vibrant culture, and stunning destinations. Visit Taj Mahal, Kerala Backwaters, Rajasthan Palaces and more tourist attractions across India."
         keywords="India tourism, Taj Mahal, Kerala backwaters, Rajasthan palaces, Goa beaches, Himalayas, heritage tourism, cultural tourism, incredible India"
         image="https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=2070"
-        url="https://incredibleindia.com"
+        url="https://incredibleindia.org"
       />
       
       {/* Hero Section */}
-      <header className="relative min-h-screen pt-28 overflow-hidden">
+      <header className="relative min-h-screen pt-20 overflow-hidden">
         {/* Background */}
         <div className="absolute inset-0">
           <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-transparent to-accent/20 z-10" />

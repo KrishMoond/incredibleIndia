@@ -37,7 +37,7 @@ const Navbar = () => {
             {/* Logo */}
             <Link to="/" className="flex items-center space-x-3 group">
               <div className="w-12 h-12 bg-gradient-to-br from-primary to-accent rounded-xl flex items-center justify-center text-white font-bold text-xl shadow-lg group-hover:shadow-xl transition-all duration-300">
-                🇮🇳
+                I
               </div>
               <div>
                 <div className="text-xl font-bold text-foreground group-hover:text-primary transition-colors">

@@ -14,7 +14,7 @@ const tips = [
   {
     icon: Coffee,
     title: 'Must-Try Food',
-    content: 'Bajra roti with jaggery, thick lassi, malpua, besan masala roti, kadhi',
+    content: 'Biryani, dosa, butter chicken, rajma chawal, gulab jamun, samosas',
   },
   {
     icon: AlertCircle,
@@ -33,7 +33,7 @@ const TravelTips = () => {
           </h2>
           <div className="w-24 h-1 bg-[#D4A017] mx-auto mb-6"></div>
           <p className="text-lg text-[#666666] max-w-2xl mx-auto">
-            Essential information to make your Haryana journey comfortable and memorable
+            Essential information to make your India journey comfortable and memorable
           </p>
         </div>
 
@@ -60,9 +60,9 @@ const TravelTips = () => {
         <div className="bg-[#1B4D3E] text-white rounded-2xl p-10 text-center">
           <h3 className="text-2xl font-serif mb-4">Getting Around</h3>
           <p className="text-lg max-w-3xl mx-auto">
-            Haryana is well-connected by road and rail. The state has excellent highway
-            infrastructure. Local buses, taxis, and app-based cabs are readily available.
-            Major cities like Gurugram and Faridabad have metro connectivity to Delhi.
+            India is well-connected by road, rail, and air. The country has excellent
+            infrastructure. Local buses, taxis, trains, and app-based cabs are readily available.
+            Major cities have metro systems and international airports for easy connectivity.
           </p>
         </div>
       </div>

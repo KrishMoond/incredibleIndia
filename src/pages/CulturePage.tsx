@@ -10,7 +10,7 @@ const CulturePage = () => {
         description="Explore India's rich cultural heritage including classical arts, traditional crafts, diverse cuisine, and major festivals across 28 states."
         keywords="India culture, Indian traditions, classical arts, handicrafts, Indian festivals, diverse cuisine, cultural heritage"
         image="https://images.unsplash.com/photo-1578662996442-48f60103fc96?q=80&w=2070"
-        url="https://incredibleindia.com/culture"
+        url="https://incredibleindia.org/culture"
       />
       <Breadcrumb items={[{ label: 'Culture & Heritage' }]} />
       <header className="py-16 bg-gradient-to-r from-[#1B4D3E] to-[#D4A017]">

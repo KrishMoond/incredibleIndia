@@ -7,7 +7,7 @@ const ContactPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-5xl font-serif mb-4">Contact Us</h1>
           <p className="text-xl">
-            Get in touch for more information about Haryana tourism
+            Get in touch for more information about India tourism
           </p>
         </div>
       </section>
@@ -80,7 +80,7 @@ const ContactPage = () => {
                   <Mail className="text-[#D4A017] mr-4 flex-shrink-0 mt-1" size={24} />
                   <div>
                     <h3 className="font-semibold text-[#333333] mb-1">Email</h3>
-                    <p className="text-[#666666]">info@haryanatourism.gov.in</p>
+                    <p className="text-[#666666]">info@incredibleindia.org</p>
                   </div>
                 </div>
 
@@ -89,9 +89,9 @@ const ContactPage = () => {
                   <div>
                     <h3 className="font-semibold text-[#333333] mb-1">Address</h3>
                     <p className="text-[#666666]">
-                      Haryana Tourism Corporation
+                      Ministry of Tourism, India
                       <br />
-                      Chandigarh, Haryana 160001
+                      New Delhi 110001
                       <br />
                       India
                     </p>
@@ -125,10 +125,10 @@ const ContactPage = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
             {[
-              { name: 'Facebook', handle: '@HaryanaOfficial' },
-              { name: 'Instagram', handle: '@HaryanaTravel' },
-              { name: 'Twitter', handle: '@HaryanaGov' },
-              { name: 'YouTube', handle: 'Haryana Tourism' },
+              { name: 'Facebook', handle: '@IncredibleIndia' },
+              { name: 'Instagram', handle: '@IncredibleIndiaOfficial' },
+              { name: 'Twitter', handle: '@IncredibleIndia' },
+              { name: 'YouTube', handle: 'Incredible India' },
             ].map((social, index) => (
               <div key={index} className="bg-white rounded-lg shadow-lg p-6 text-center hover:shadow-xl transition-shadow">
                 <h3 className="text-xl font-serif text-[#D4A017] mb-2">{social.name}</h3>

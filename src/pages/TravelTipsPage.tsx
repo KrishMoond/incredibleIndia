@@ -7,7 +7,7 @@ const TravelTipsPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           <h1 className="text-5xl font-serif mb-4">Travel Tips</h1>
           <p className="text-xl">
-            Everything you need to know for a memorable Haryana experience
+            Everything you need to know for a memorable India experience
           </p>
         </div>
       </section>
@@ -24,8 +24,8 @@ const TravelTipsPage = () => {
             <div className="bg-[#F7F3E9] rounded-lg p-8">
               <h3 className="text-2xl font-serif text-[#333333] mb-4">Accommodation</h3>
               <p className="text-[#666666] mb-4">
-                Haryana offers a range of accommodations from budget guesthouses to luxury
-                resorts. Major cities like Gurugram and Faridabad have excellent hotel options.
+                India offers a range of accommodations from budget guesthouses to luxury
+                resorts. Major cities across the country have excellent hotel options.
               </p>
               <ul className="space-y-2 text-[#666666]">
                 <li>• Budget Hotels: Rs 1000-2000</li>
@@ -38,7 +38,7 @@ const TravelTipsPage = () => {
             <div className="bg-[#F7F3E9] rounded-lg p-8">
               <h3 className="text-2xl font-serif text-[#333333] mb-4">Transportation</h3>
               <p className="text-[#666666] mb-4">
-                Getting around Haryana is convenient with multiple transport options available.
+                Getting around India is convenient with multiple transport options available.
               </p>
               <ul className="space-y-2 text-[#666666]">
                 <li>• Buses: Frequent and affordable</li>
@@ -51,7 +51,7 @@ const TravelTipsPage = () => {
             <div className="bg-[#F7F3E9] rounded-lg p-8">
               <h3 className="text-2xl font-serif text-[#333333] mb-4">Safety Tips</h3>
               <p className="text-[#666666] mb-4">
-                Haryana is generally a safe destination. Follow these basic precautions.
+                India is generally a safe destination. Follow these basic precautions.
               </p>
               <ul className="space-y-2 text-[#666666]">
                 <li>• Keep valuables secure</li>
@@ -64,7 +64,7 @@ const TravelTipsPage = () => {
             <div className="bg-[#F7F3E9] rounded-lg p-8">
               <h3 className="text-2xl font-serif text-[#333333] mb-4">Documents Required</h3>
               <p className="text-[#666666] mb-4">
-                Essential documents for your trip to Haryana.
+                Essential documents for your trip to India.
               </p>
               <ul className="space-y-2 text-[#666666]">
                 <li>• Valid ID proof (Passport/Aadhar)</li>
